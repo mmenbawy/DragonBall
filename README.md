@@ -1,3 +1,3 @@
 # DragonBall
 
-Download and run src/dragonball/controller/GUI
+Download and run src/dragonball/controller/GUI.java
